@@ -112,7 +112,7 @@ links:
       title: "Practically Trans Facebook Group"
       target: "_blank"
 
-socials:
+# socials:
   # - social:
   #     icon: "fa-brands fa-medium"
   #     url: "https://blog.zhgchg.li"
